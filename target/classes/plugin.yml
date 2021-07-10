@@ -1,0 +1,4 @@
+main: us.reddyornot.App
+name: DeathLocation
+version: 1.0
+api-version: 1.17
